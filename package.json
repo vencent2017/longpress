@@ -10,6 +10,10 @@
     "longpress",
     "vue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vencent2017/longpress.git"
+  },
   "author": "vencent",
   "license": "ISC"
 }
