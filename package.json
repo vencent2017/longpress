@@ -1,5 +1,5 @@
 {
-  "name": "@vencent/longpress",
+  "name": "vue-longpress",
   "version": "1.0.0",
   "description": "vue自定义长按指令",
   "main": "index.js",
