@@ -1,0 +1,15 @@
+{
+  "name": "longpress",
+  "version": "1.0.0",
+  "description": "vue自定义长按指令",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "longpress",
+    "vue"
+  ],
+  "author": "vencent",
+  "license": "ISC"
+}
